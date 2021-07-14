@@ -4,7 +4,6 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="msvalidate.01" content="8A044F6B24E3A19810D766CAE2ACA17A" />
     <meta name="description" content="Madison Barker is a graduate student interested in multi-utterance language production.">
     <meta name="author" content="Madison Barker">
     <meta name="keywords" content="Madison Barker, Psycholinguistics, Language Production, Eyetracking, Open Science">
@@ -12,14 +11,6 @@
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
     <title>Madison Barker</title>
-    <!-- Font Awesome icons (free version)-->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/js/all.min.js"
-        crossorigin="anonymous"></script>
-    <!-- Core theme CSS (includes Bootstrap)-->
-    <link href="css/styles.css" rel="stylesheet">
-    <!-- Fonts CSS-->
-    <link rel="stylesheet" href="css/heading.css">
-    <link rel="stylesheet" href="css/body.css">
 </head>
 
 <body id="page-top">
