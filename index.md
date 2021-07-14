@@ -9,7 +9,6 @@
     <meta name="keywords" content="Madison Barker, Psycholinguistics, Language Production, Eyetracking, Open Science">
     <meta name="author" content="Madison Barker">
     <meta name="msapplication-TileColor" content="#da532c">
-    <meta name="theme-color" content="#ffffff">
     <title>Madison Barker</title>
 </head>
 
