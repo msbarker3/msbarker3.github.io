@@ -94,16 +94,16 @@
             <div class="row justify-content-center">
                 <div class="col-lg-4">
                     <div class="d-flex flex-column align-items-center">
-                        <a href="tel:+91-9567210454"><div class="icon-contact mb-3"><i class="fas fa-mobile-alt"></i></div></a>
+                        <a href="tel:+1 314.920.9179"><div class="icon-contact mb-3"><i class="fas fa-mobile-alt"></i></div></a>
                         <div class="text-muted">Phone</div>
                         <div class="lead font-weight-bold"><a href="tel:+91-9567210454">+1 314.920.9179</a></div>
                     </div>
                 </div>
                 <div class="col-lg-4">
                     <div class="d-flex flex-column align-items-center">
-                        <a href="mailto:navendupottekkat@gmail.com"><div class="icon-contact mb-3"><i class="far fa-envelope"></i></div></a>
+                        <a href="mailto:msbarker@ucdavis.edu"><div class="icon-contact mb-3"><i class="far fa-envelope"></i></div></a>
                         <div class="text-muted">Email</div><a class="lead font-weight-bold"
-                            href="mailto:navendupottekkat@gmail.com">msbarker@ucdavis.edu</a>
+                            href="mailto:msbarker@ucdavis.edu">msbarker@ucdavis.edu</a>
                     </div>
                 </div>
             </div>
@@ -152,49 +152,7 @@
             </div>
         </div>
     </footer>
-    <!-- Copyright Section-->
-    <section class="copyright py-4 text-center text-white">
-        <div class="container"><small class="pre-wrap"><a target="_blank" href="https://github.com/navendu-pottekkat/navendu-pottekkat.github.io/blob/master/LICENSE">MIT Licensed</a> | Navendu Pottekkat 2020 | Hosted with ❤ by <a href="https://github.com/" target="_blank">GitHub</a></small></div>
-        <!-- GitHub buttons -->
-        <a class="github-button" href="https://github.com/navendu-pottekkat/navendu-pottekkat.github.io/generate" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-repo-template" aria-label="Use this template navendu-pottekkat/navendu-pottekkat.github.io on GitHub">Use this template</a>
-        <a class="github-button" href="https://github.com/navendu-pottekkat/navendu-pottekkat.github.io" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-star" data-show-count="true" aria-label="Star navendu-pottekkat/navendu-pottekkat.github.io on GitHub">Star</a>
-        <a class="github-button" href="https://github.com/navendu-pottekkat/navendu-pottekkat.github.io/fork" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-repo-forked" data-show-count="true" aria-label="Fork navendu-pottekkat/navendu-pottekkat.github.io on GitHub">Fork</a>
-    </section>
-    <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes)-->
-    <div class="scroll-to-top d-lg-none position-fixed"><a
-            class="js-scroll-trigger d-block text-center text-white rounded" href="#page-top"><i
-                class="fa fa-chevron-up"></i></a></div>
-
-    <script type="application/ld+json">
-{
-"@context": "https://schema.org/",
-"@type": "Person",
-"name": "Navendu Pottekkat",
-"url": "https://navendu.me",
-"image": "",
-"sameAs": [
-    "https://www.facebook.com/navendupottekkat",
-    "https://twitter.com/sudo_navendu",
-    "https://instagram.com/sudo_navendu",
-    "https://linkedin.com/in/navendup",
-    "https://github.com/navendu-pottekkat"
-    ],
-"jobTitle": "Software Engineer",
-"worksFor": {
-    "@type": "Organization",
-    "name": "Layer5"
-    }  
-}
-    </script>
-    <!-- Bootstrap core JS-->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
-    <!-- Third party plugin JS-->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
-    <!-- Core theme JS-->
-    <script src="js/scripts.js"></script>
-    <!-- GitHub buttons -->
-    <script async defer src="https://buttons.github.io/buttons.js"></script>
+ 
 </body>
 
 </html>
