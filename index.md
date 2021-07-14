@@ -58,208 +58,6 @@
             <!-- Masthead Subheading-->
             <p class="pre-wrap masthead-subheading font-weight-light mb-0">Graduate Student | Ferreira Lab | Psycholinguistics </br>Language Production</p>
         </div>
-    </header>
-    <section class="page-section portfolio" id="portfolio">
-        <div class="container">
-            <!-- Portfolio Section Heading-->
-            <div class="text-center">
-                <h2 class="page-section-heading text-secondary mb-0 d-inline-block">PROJECTS</h2>
-            </div>
-            <!-- Icon Divider-->
-            <div class="divider-custom">
-                <div class="divider-custom-line"></div>
-                <div class="divider-custom-icon"><i class="fas fa-code"></i></div>
-                <div class="divider-custom-line"></div>
-            </div>
-            <!-- Portfolio Grid Items-->
-            <div class="row">
-                <div class="col-lg-4 col-sm-6 mb-4">
-                    <div class="card h-100">
-                        <a target="_blank" href="https://github.com/navendu-pottekkat/nsfw-filter"><img class="card-img-top" src="./assets/img/proj_10.jpg" alt="NSFW Filter"></a>
-                        <div class="card-body">
-                            <h4 class="card-title">
-                                <a target="_blank" href="https://github.com/navendu-pottekkat/nsfw-filter">Block NSFW content using AI</a>
-                            </h4>
-                            <p class="card-text">
-                                <span class="badge badge-primary">Deep Learning</span>
-                                <span class="badge badge-warning">Computer Vision</span>
-                                </br></br>A web extension that uses TensorFlow JS to detect NSFW content and block them.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6 mb-4">
-                    <div class="card h-100">
-                        <a target="_blank" href="https://github.com/navendu-pottekkat/teachable-machine"><img class="card-img-top" src="./assets/img/proj_11.jpg" alt="Teachable Machine"></a>
-                        <div class="card-body">
-                            <h4 class="card-title">
-                                <a target="_blank" href="https://github.com/navendu-pottekkat/teachable-machine">Teachable Machine</a>
-                            </h4>
-                            <p class="card-text">
-                                <span class="badge badge-primary">Deep Learning</span>
-                                <span class="badge badge-warning">Computer Vision</span>
-                                </br></br>A Teachable Image classifier that runs on any browser.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6 mb-4">
-                    <div class="card h-100">
-                        <a target="_blank" href="https://github.com/navendu-pottekkat/awesome-readme"><img class="card-img-top" src="./assets/img/proj_12.jpg" alt="Awesome README"></a>
-                        <div class="card-body">
-                            <h4 class="card-title">
-                                <a target="_blank" href="https://github.com/navendu-pottekkat/awesome-readme">Awesome README</a>
-                            </h4>
-                            <p class="card-text">
-                                <span class="badge badge-danger">Blog</span>
-                                </br></br>A guide to writing an AWESOME README for your next open-source project.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6 mb-4">
-                    <div class="card h-100">
-                        <a target="_blank" href="https://www.linkedin.com/posts/navendup_deeplearning-computervision-covid19-activity-6667098199813181440-34kh"><img class="card-img-top" src="./assets/img/proj_1.jpg" alt="COVID 19 Detection"></a>
-                        <div class="card-body">
-                            <h4 class="card-title">
-                                <a target="_blank" href="https://www.linkedin.com/posts/navendup_deeplearning-computervision-covid19-activity-6667098199813181440-34kh">COVID 19 detection using chest X-rays</a>
-                            </h4>
-                            <p class="card-text">
-                                <span class="badge badge-primary">Deep Learning</span>
-                                <span class="badge badge-warning">Computer Vision</span>
-                                </br></br>A CNN model built on top of VGG16 that would classify X-rays of people
-                                with and without COVID 19
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6 mb-4">
-                    <div class="card h-100">
-                        <a target="_blank" href="https://dsbootcamp.com/"><img class="card-img-top" src="./assets/img/proj_2.jpg" alt="Data Science Bootcamp"></a>
-                        <div class="card-body">
-                            <h4 class="card-title">
-                                <a target="_blank" href="https://dsbootcamp.com/">Data Science Bootcamp</a>
-                            </h4>
-                            <p class="card-text">
-                                <span class="badge badge-danger">Blog</span>
-                                <span class="badge badge-info">Data Science</span>
-                                </br></br>A blog aimed to help students get started to the field of Data Science,
-                                Machine Learning and Deep Learning without any previous experience.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6 mb-4">
-                    <div class="card h-100">
-                        <a target="_blank" href="https://github.com/navendu-pottekkat/smile-detector"><img class="card-img-top" src="./assets/img/proj_3.jpg" alt="Smile Detector"></a>
-                        <div class="card-body">
-                            <h4 class="card-title">
-                                <a target="_blank" href="https://github.com/navendu-pottekkat/smile-detector">Smile Detector</a>
-                            </h4>
-                            <p class="card-text">
-                                <span class="badge badge-primary">Deep Learning</span>
-                                <span class="badge badge-warning">Computer Vision</span>
-                                </br></br>Real-time face and smile detection using open CV and Deep Learning.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6 mb-4">
-                    <div class="card h-100">
-                        <a target="_blank" href="https://github.com/navendu-pottekkat/dog-eyes"><img class="card-img-top" src="./assets/img/proj_4.jpg" alt="Dog Eyes"></a>
-                        <div class="card-body">
-                            <h4 class="card-title">
-                                <a target="_blank" href="https://github.com/navendu-pottekkat/dog-eyes">Dog Eyes</a>
-                            </h4>
-                            <p class="card-text">
-                                <span class="badge badge-primary">Deep Learning</span>
-                                <span class="badge badge-warning">Computer Vision</span>
-                                </br></br>A Deep Learning model built on top of MobileNetV2 trained on ImageNet dataset
-                                to classify 100+ dog breeds.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6 mb-4">
-                    <div class="card h-100">
-                        <a target="_blank" href="https://dsbootcamp.com/post_intro_to_tf_lite.html"><img class="card-img-top" src="./assets/img/proj_5.jpg" alt="TensorFlow Lite"></a>
-                        <div class="card-body">
-                            <h4 class="card-title">
-                                <a target="_blank" href="https://dsbootcamp.com/post_intro_to_tf_lite.html">Deep Learning in edge devices</a>
-                            </h4>
-                            <p class="card-text">
-                                <span class="badge badge-primary">Deep Learning</span>
-                                <span class="badge badge-danger">Blog</span>
-                                </br></br>A complete tutorial on getting started with TensorFlow Lite from building the
-                                model, converting it to TF Lite and using the model for inference in edge devices.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6 mb-4">
-                    <div class="card h-100">
-                        <a target="_blank" href="https://github.com/navendu-pottekkat/heart-disease-classifier"><img class="card-img-top" src="./assets/img/proj_6.jpg" alt="Hear Disease Classifier"></a>
-                        <div class="card-body">
-                            <h4 class="card-title">
-                                <a target="_blank" href="https://github.com/navendu-pottekkat/heart-disease-classifier">Heart Disease detection using data</a>
-                            </h4>
-                            <p class="card-text">
-                                <span class="badge badge-info">Data Science</span>
-                                </br></br>ML model to detect if a person has a chance of having a heart disease given
-                                their clinical parameters.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6 mb-4">
-                    <div class="card h-100">
-                        <a target="_blank" href="https://github.com/navendu-pottekkat/virtual-drums"><img class="card-img-top" src="./assets/img/proj_7.jpg" alt="Virtual Drums"></a>
-                        <div class="card-body">
-                            <h4 class="card-title">
-                                <a target="_blank" href="https://github.com/navendu-pottekkat/virtual-drums">Virtual Drums</a>
-                            </h4>
-                            <p class="card-text">
-                                <span class="badge badge-info">Data Science</span>
-                                <span class="badge badge-primary">Deep Learning</span>
-                                <span class="badge badge-warning">Computer Vision</span>
-                                </br></br>Virtual Drum set built using Open CV.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6 mb-4">
-                    <div class="card h-100">
-                        <a target="_blank" href="https://github.com/navendu-pottekkat/"><img class="card-img-top" src="./assets/img/proj_8.jpg" alt="Coloring Images using AI"></a>
-                        <div class="card-body">
-                            <h4 class="card-title">
-                                <a target="_blank" href="https://github.com/navendu-pottekkat/">Coloring Images using AI</a>
-                            </h4>
-                            <p class="card-text">
-                                <span class="badge badge-primary">Deep Learning</span>
-                                <span class="badge badge-warning">Computer Vision</span>
-                                </br></br>Coloring Black and White images using Deep Convolutional Neural Networks.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6 mb-4">
-                    <div class="card h-100">
-                        <a target="_blank" href="https://github.com/navendu-pottekkat/"><img class="card-img-top" src="./assets/img/proj_9.jpg" alt="Handwritten Digits using GANs"></a>
-                        <div class="card-body">
-                            <h4 class="card-title">
-                                <a target="_blank" href="https://github.com/navendu-pottekkat/">Generating Handwritten Digits using GANs</a>
-                            </h4>
-                            <p class="card-text">
-                                <span class="badge badge-primary">Deep Learning</span>
-                                <span class="badge badge-warning">Computer Vision</span>
-                                </br></br>Generating real-looking digits using Generative Adverserial Networks from MNIST Dataset.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 
     <section class="page-section bg-primary text-white mb-0" id="about">
         <div class="container">
@@ -275,9 +73,9 @@
             </div>
             <!-- About Section Content-->
             <div class="text-center">
-                <p class="pre-wrap lead">Software Engineer working on Service Meshes, Deep Learning on Edge and everything Open Source.</p>
-                <p class="pre-wrap lead">Software Engineer @ Layer5 where I maintain Meshery.</p>
-                <p class="pre-wrap lead">Master's Degree student in Computer Science focusing on Neuro-Memristive systems.</p>
+                <p class="pre-wrap lead"> Third year graduate student at UC Davis.</p>
+                <p class="pre-wrap lead"> Interested in language production.</p>
+                <p class="pre-wrap lead"> Go Badgers.</p>
             </div>
         </div>
     </section>
@@ -299,14 +97,14 @@
                     <div class="d-flex flex-column align-items-center">
                         <a href="tel:+91-9567210454"><div class="icon-contact mb-3"><i class="fas fa-mobile-alt"></i></div></a>
                         <div class="text-muted">Phone</div>
-                        <div class="lead font-weight-bold"><a href="tel:+91-9567210454">+91 9567210454</a></div>
+                        <div class="lead font-weight-bold"><a href="tel:+91-9567210454">+1 314.920.9179</a></div>
                     </div>
                 </div>
                 <div class="col-lg-4">
                     <div class="d-flex flex-column align-items-center">
                         <a href="mailto:navendupottekkat@gmail.com"><div class="icon-contact mb-3"><i class="far fa-envelope"></i></div></a>
                         <div class="text-muted">Email</div><a class="lead font-weight-bold"
-                            href="mailto:navendupottekkat@gmail.com">navendupottekkat@gmail.com</a>
+                            href="mailto:navendupottekkat@gmail.com">msbarker@ucdavis.edu</a>
                     </div>
                 </div>
             </div>
@@ -323,7 +121,7 @@
                 <!-- Footer Social Icons-->
                 <div class="col-lg-4 mb-5 mb-lg-0">
                     <h4 class="mb-4">AROUND THE WEB</h4>
-                    <a target="_blank" href="https://www.linkedin.com/in/navendup/">
+                    <a target="_blank" href="https://www.linkedin.com/in/madison-barker-a821a3115/">
                         <span class="fa-stack fa-lg">
                             <i class="fas fa-circle fa-stack-2x"></i>
                             <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
@@ -331,15 +129,7 @@
                     </a>
                     </li>
                     <li class="list-inline-item">
-                        <a target="_blank" href="https://medium.com/@navendupottekkat">
-                            <span class="fa-stack fa-lg">
-                                <i class="fas fa-circle fa-stack-2x"></i>
-                                <i class="fab fa-medium fa-stack-1x fa-inverse"></i>
-                            </span>
-                        </a>
-                    </li>
-                    <li class="list-inline-item">
-                        <a target="blank" href="https://github.com/navendu-pottekkat">
+                        <a target="blank" href="https://github.com/msbarker35">
                             <span class="fa-stack fa-lg">
                                 <i class="fas fa-circle fa-stack-2x"></i>
                                 <i class="fab fa-github fa-stack-1x fa-inverse"></i>
@@ -347,7 +137,7 @@
                         </a>
                     </li>
                     <li class="list-inline-item">
-                        <a target="blank" href="https://twitter.com/sudo_navendu">
+                        <a target="blank" href="https://twitter.com/mbarkyy">
                             <span class="fa-stack fa-lg">
                                 <i class="fas fa-circle fa-stack-2x"></i>
                                 <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
