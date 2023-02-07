@@ -1,0 +1,4490 @@
+[[AdvancedFormat]]
+
+[[Block:Instructions]]
+
+[[Question:Text]]
+<p><strong><span style="font-size:19px;">Informed Consent Form</span></strong>
+</p>
+​
+<p><strong>Introduction</strong><br>
+The purpose of this study is to gain a better understanding of how people perceive real-world visual scenes like this:<br>
+&nbsp;</p>
+​
+<p><img height="450" src="https://dr-gwen.github.io/Reachability_patches/instructions/full_example_scene.jpg" style="width: 600px; height: 450px;" width="600"><br>
+<strong>Real-world visual scene example</strong></p>
+​
+<p><br>
+<strong>Procedures</strong><br>
+If you agree to take part in this study, you will be presented with a series of images&nbsp;which are&nbsp;small patches&nbsp;of&nbsp;larger real-world scenes like the one above. Your task will be to rate how "graspable" you think parts of the scene are. &nbsp;<br>
+<br>
+What do we mean by "graspable"? We want you to assess how easily an object can be picked up or manipulated with one’s hands.<br>
+<br>
+For example, here are two scene patches taken from the example scene above. Note that the location of the scene patch is encircled in green on the larger scene to help you recognize it. These patches show parts of the scene that would be very difficult or impossible to grasp.&nbsp;<br>
+<br>
+<img height="201" src="https://dr-gwen.github.io/Reachability_patches/instructions/context_patch_sky.jpg" style="width: 400px; height: 201px;" width="400"><br>
+<br>
+<img height="201" src="https://dr-gwen.github.io/Reachability_patches/instructions/context_patch_wall.jpg" style="width: 400px; height: 201px;" width="400"><br><br></p>
+Because you cannot grasp the sky or a wall, these would rated low.<br>
+<br><br />
+<br /><p>
+And here are two example patches that would be very easy to grasp.<br>
+<br>
+<img height="202" src="https://dr-gwen.github.io/Reachability_patches/instructions/context_patch_knife.jpg" style="width: 400px; height: 202px;" width="400"><br /><br />
+​<img height="202" src="https://dr-gwen.github.io/Reachability_patches/instructions/context_patch_spatula.jpg" style="width: 400px; height: 202px;" width="400"><br /><br />
+​These patches show parts of the scene that would be very easy to grasp, and so would be rated high.<br></p>
+<br>
+<p>If a patch has multiple items in it, please rate the patch by the item that takes up the <u>majority</u> of the patch.<br>
+<br>
+You will be asked to provide your rating for each patch using a 6-point scale. A rating of 1 means you think the scene patch shows something that would be very difficult or impossible to grasp like the sky. &nbsp;A&nbsp;rating of 6 means you think the scene patch shows something that would be very easy to grasp like the spatula.&nbsp;Many patches will fall somewhere between these two extremes and you should select a middle value. The 6-point scale will look like this:</p><p><br>
+<img height="69" src="https://dr-gwen.github.io/Reachability_patches/instructions/scale_grasp.png" style="width: 600px; height: 69px;" width="600"></p>
+​
+<p>You will select your answer by using the mouse to click on the bubble below the rating you wish to select. The task consists of 310 scene patches&nbsp;and will take approximately 20 minutes or less.&nbsp;&nbsp;</p><p>
+<br>
+<strong>Risks/Discomforts</strong><br>
+Risks are minimal for involvement in this study. The only foreseeable risk in this study is the possibility of boredom.&nbsp;<br>
+&nbsp;<br>
+</p><p><strong>Compensation</strong><br>
+Participants will earn 0.5 SONA credits if they complete&nbsp;all 310 items of the&nbsp;task. If you are participating on Amazon Mechanical Turk, you will be paid the amount listed on the Mechanical Turk website where you saw this study advertised.</p>
+&nbsp;<br>
+<strong>Benefits</strong><br>
+There are no direct benefits for you besides the compensation. However, it is hoped that through your participation, researchers will learn more about how we visually process complex visual scenes.<br>
+<br>
+<strong>Confidentiality</strong><br>
+All data obtained will be kept strictly confidential and will only be reported in an aggregate format (by reporting only combined results and never reporting individual ones). All questionnaires will be concealed, and no one other than the primary investigator and assistant researchers below will have access to them. The data collected will be stored in the HIPPA-compliant, Qualtrics-secure database until it has been deleted by the primary investigator.<br>
+<br>
+This research is covered by a Certificate of Confidentiality (CoC) from the National Institutes of Health. The researchers with this CoC may not disclose or use information, documents, or biospecimens that may identify you in any federal, state, or local civil, criminal, administrative, legislative, or other action, suit, or proceeding. For example, the information collected in this research cannot be used as evidence in a proceeding unless you consent to this use. Information, documents, or biospecimens protected by this CoC cannot be disclosed to anyone else who is not connected with the research, except:<br>
+<ul>
+<li> To a federal agency sponsoring this research when information is needed for auditing or program evaluations;</li>
+<li> If a federal, state or local law requires disclosure such as a requirement to report a communicable disease;</li>
+<li> If information about you must be disclosed to prevent serious harm to yourself or others such as child abuse, elder abuse or spousal abuse;</li>
+<li> If you consent to the disclosure, including for your medical treatment, to an insurer or employer to obtain information about you; or</li>
+<li> If it is used for other scientific research, as allowed by federal regulations protecting research subjects.</li>
+</ul><br>
+This CoC also does not prevent you or a family member from voluntarily releasing information about yourself and your involvement in this research.
+&nbsp;<br><br>
+<strong>Institution Review Board (IRB) Approved</strong><br>
+An Institutional Review Board responsible for human subjects research at the University of California, Davis reviewed this research project and found it to be acceptable according to applicable state and federal regulations and University policies designed to protect the rights and welfare of participants in research.<br>
+&nbsp;<br>
+<strong>Participation</strong><br>
+Participation in this research study is completely voluntary. You have the right to withdraw at any time. If you desire to withdraw, please close your internet browser and notify the investigators: fferreira@ucdavis.edu and johnhenderson@ucdavis.edu&nbsp; &nbsp;<br>
+&nbsp;<br>
+<strong>Questions about the Research, Participation, Concerns, or Complaints</strong><br>
+If you have questions or concerns regarding this study, you may contact the investigators: fferreira@ucdavis.edu and johnhenderson@ucdavis.edu<br>
+&nbsp;<p></p>
+<div><br></div>
+<div style="text-align: right;"><input onclick="" value="Print" type="button"></div>
+
+[[Question:MC:SingleAnswer:Vertical]]
+I have read, understood, and printed a copy of, the above consent form and desire of my own free will to participate in this study.&nbsp; If you do not wish to participate please close your browser window.
+[[Choices]]
+Yes
+
+[[PageBreak]]
+
+[[Block:BL01]]
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS47_116_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS47_116.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/cat_257_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/cat_257.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban10_195_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban10_195.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban16_46_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban16_46.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/fan_133_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/fan_133.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bongo_drums_271_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bongo_drums_271.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban10_175_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban10_175.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/fan_288_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/fan_288.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/computer_24_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/computer_24.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/gd01fine/CD_22_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/gd01fine/CD_22.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[PageBreak]]
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/fan_167_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/fan_167.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS188_39_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS188_39.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/elephant_260_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/elephant_260.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban14_98_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban14_98.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/glass_285_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/glass_285.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS188_50_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS188_50.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/cat_84_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/cat_84.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/fan_266_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/fan_266.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban10_249_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban10_249.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/gd01fine/bongo_drums_33_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/gd01fine/bongo_drums_33.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[PageBreak]]
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS47_112_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS47_112.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/glass_71_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/glass_71.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/elephant_277_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/elephant_277.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS160_187_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS160_187.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS160_282_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS160_282.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/computer_156_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/computer_156.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bongo_drums_230_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bongo_drums_230.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban16_129_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban16_129.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS160_183_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS160_183.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/gd01fine/boat_22_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/gd01fine/boat_22.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[PageBreak]]
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban10_97_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban10_97.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban16_165_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban16_165.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/glass_146_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/glass_146.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/glass_42_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/glass_42.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_116_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_116.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_282_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_282.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/elephant_187_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/elephant_187.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bongo_drums_165_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bongo_drums_165.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_271_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_271.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS188_131_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS188_131.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[PageBreak]]
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/fan_115_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/fan_115.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS47_251_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS47_251.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/funnel_218_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/funnel_218.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_114_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_114.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_156_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_156.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/computer_185_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/computer_185.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS160_54_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS160_54.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS47_155_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS47_155.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS188_190_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS188_190.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS47_242_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS47_242.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[PageBreak]]
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/gd01fine/computer_27_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/gd01fine/computer_27.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS160_295_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS160_295.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS47_92_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS47_92.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/computer_68_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/computer_68.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban16_79_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban16_79.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/funnel_36_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/funnel_36.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS160_9_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS160_9.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/computer_252_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/computer_252.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/fan_128_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/fan_128.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban14_112_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban14_112.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[PageBreak]]
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS188_206_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS188_206.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_274_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_274.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban16_291_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban16_291.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/gd01fine/cat_27_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/gd01fine/cat_27.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS160_61_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS160_61.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_270_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_270.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban16_121_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban16_121.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/funnel_235_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/funnel_235.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/elephant_49_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/elephant_49.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bust_30_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bust_30.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[PageBreak]]
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/computer_149_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/computer_149.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS160_170_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS160_170.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban16_152_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban16_152.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban16_28_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban16_28.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bongo_drums_53_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bongo_drums_53.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS188_125_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS188_125.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban16_66_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban16_66.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/glass_162_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/glass_162.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban16_146_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban16_146.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/cat_178_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/cat_178.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[PageBreak]]
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS188_196_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS188_196.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/computer_235_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/computer_235.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/elephant_16_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/elephant_16.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/elephant_202_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/elephant_202.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/funnel_100_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/funnel_100.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_71_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_71.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/cat_11_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/cat_11.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/glass_187_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/glass_187.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/fan_163_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/fan_163.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/elephant_32_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/elephant_32.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[PageBreak]]
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/fan_88_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/fan_88.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bongo_drums_157_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bongo_drums_157.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bust_112_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bust_112.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/fan_82_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/fan_82.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/elephant_205_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/elephant_205.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS47_285_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS47_285.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/fan_56_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/fan_56.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban16_49_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban16_49.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban16_253_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban16_253.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban14_182_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban14_182.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[PageBreak]]
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban14_12_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban14_12.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bongo_drums_284_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bongo_drums_284.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS188_157_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS188_157.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban16_31_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban16_31.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/cat_162_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/cat_162.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS188_4_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS188_4.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban14_95_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban14_95.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/funnel_134_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/funnel_134.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/elephant_56_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/elephant_56.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bust_267_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bust_267.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[PageBreak]]
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_288_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_288.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/glass_251_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/glass_251.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bust_56_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bust_56.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban14_43_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban14_43.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/elephant_84_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/elephant_84.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban16_281_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban16_281.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban14_288_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban14_288.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/fan_242_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/fan_242.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/glass_270_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/glass_270.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban14_136_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban14_136.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[PageBreak]]
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban10_217_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban10_217.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bongo_drums_142_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bongo_drums_142.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/funnel_203_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/funnel_203.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/cat_205_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/cat_205.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bust_154_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bust_154.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/funnel_265_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/funnel_265.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_180_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_180.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/funnel_20_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/funnel_20.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS160_105_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS160_105.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/computer_98_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/computer_98.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[PageBreak]]
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_269_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_269.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban14_16_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban14_16.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS47_104_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS47_104.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_89_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_89.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban14_243_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban14_243.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban14_191_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban14_191.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bust_228_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bust_228.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS188_180_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS188_180.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban14_261_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban14_261.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban10_131_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban10_131.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[PageBreak]]
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_60_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_60.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_175_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_175.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/glass_196_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/glass_196.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS47_254_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS47_254.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/glass_294_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/glass_294.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bongo_drums_76_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bongo_drums_76.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/cat_292_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/cat_292.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/funnel_56_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/funnel_56.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/fan_63_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/fan_63.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS47_292_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS47_292.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[PageBreak]]
+
+[[Block:BL02]]
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban10_286_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban10_286.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/funnel_96_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/funnel_96.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/cat_254_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/cat_254.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban14_160_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban14_160.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/glass_100_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/glass_100.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/glass_134_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/glass_134.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/fan_4_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/fan_4.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/cat_242_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/cat_242.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_261_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_261.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS160_12_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS160_12.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[PageBreak]]
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/elephant_183_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/elephant_183.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS160_74_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS160_74.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/cat_115_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/cat_115.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/funnel_160_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/funnel_160.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban14_55_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban14_55.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bust_122_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bust_122.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/elephant_207_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/elephant_207.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/computer_214_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/computer_214.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS160_131_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS160_131.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/glass_211_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/glass_211.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[PageBreak]]
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/computer_210_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/computer_210.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/computer_222_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/computer_222.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bust_55_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bust_55.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban10_214_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban10_214.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban14_4_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban14_4.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS160_253_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS160_253.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/elephant_206_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/elephant_206.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/elephant_82_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/elephant_82.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/computer_18_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/computer_18.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_223_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_223.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[PageBreak]]
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/computer_95_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/computer_95.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS188_76_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS188_76.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban16_220_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban16_220.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/computer_234_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/computer_234.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS47_189_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS47_189.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_211_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_211.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban10_222_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban10_222.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban10_268_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban10_268.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/computer_254_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/computer_254.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bust_113_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bust_113.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[PageBreak]]
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS47_215_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS47_215.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/glass_25_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/glass_25.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/funnel_175_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/funnel_175.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS160_42_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS160_42.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bongo_drums_13_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bongo_drums_13.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/gd01fine/dice_62_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/gd01fine/dice_62.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_267_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_267.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/gd01fine/blender_25_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/gd01fine/blender_25.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bongo_drums_81_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bongo_drums_81.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/computer_108_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/computer_108.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[PageBreak]]
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS160_285_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS160_285.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bust_49_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bust_49.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban10_235_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban10_235.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/elephant_275_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/elephant_275.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/glass_263_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/glass_263.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bongo_drums_167_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bongo_drums_167.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS160_194_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS160_194.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bongo_drums_124_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bongo_drums_124.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS188_14_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS188_14.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS47_60_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS47_60.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[PageBreak]]
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_68_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_68.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/fan_61_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/fan_61.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS188_211_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS188_211.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_105_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_105.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS160_120_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS160_120.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bust_243_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bust_243.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban14_152_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban14_152.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/elephant_278_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/elephant_278.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS47_259_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS47_259.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/glass_239_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/glass_239.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[PageBreak]]
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bust_161_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bust_161.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban14_226_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban14_226.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/gd01fine/clock_248_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/gd01fine/clock_248.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_69_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_69.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/funnel_30_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/funnel_30.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS188_74_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS188_74.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban16_140_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban16_140.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_109_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_109.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bust_3_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bust_3.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_119_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_119.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[PageBreak]]
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bongo_drums_23_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bongo_drums_23.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bongo_drums_127_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bongo_drums_127.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban16_100_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban16_100.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/fan_269_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/fan_269.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bongo_drums_19_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bongo_drums_19.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban10_211_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban10_211.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/funnel_240_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/funnel_240.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban14_94_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban14_94.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/elephant_181_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/elephant_181.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/funnel_114_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/funnel_114.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[PageBreak]]
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS188_73_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS188_73.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/fan_223_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/fan_223.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_236_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_236.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/funnel_5_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/funnel_5.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/cat_25_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/cat_25.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_45_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_45.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/glass_260_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/glass_260.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS47_252_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS47_252.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS47_47_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS47_47.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/elephant_224_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/elephant_224.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[PageBreak]]
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/funnel_28_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/funnel_28.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_22_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_22.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/funnel_223_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/funnel_223.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban10_179_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban10_179.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/elephant_292_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/elephant_292.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban16_22_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban16_22.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_94_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_94.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban10_67_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban10_67.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/funnel_166_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/funnel_166.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban10_154_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban10_154.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[PageBreak]]
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban10_84_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban10_84.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS188_270_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS188_270.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/funnel_251_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/funnel_251.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_166_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_166.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban14_17_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban14_17.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/cat_19_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/cat_19.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/glass_38_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/glass_38.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bongo_drums_202_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bongo_drums_202.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/computer_196_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/computer_196.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/funnel_144_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/funnel_144.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[PageBreak]]
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/cat_105_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/cat_105.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/elephant_208_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/elephant_208.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_129_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_129.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/funnel_169_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/funnel_169.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS160_55_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS160_55.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/computer_60_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/computer_60.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban14_211_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban14_211.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS160_181_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS160_181.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/funnel_184_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/funnel_184.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/fan_152_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/fan_152.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[PageBreak]]
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/computer_249_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/computer_249.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban14_209_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban14_209.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_183_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_183.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban14_137_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban14_137.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS160_75_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS160_75.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/computer_70_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/computer_70.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS188_110_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS188_110.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban14_212_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban14_212.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/elephant_63_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/elephant_63.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_220_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_220.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[PageBreak]]
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/funnel_278_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/funnel_278.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/computer_32_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/computer_32.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/funnel_92_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/funnel_92.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS160_109_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS160_109.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/gd01fine/bin_22_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/gd01fine/bin_22.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS188_191_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS188_191.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS188_142_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS188_142.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/fan_258_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/fan_258.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban16_214_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban16_214.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS47_95_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS47_95.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[PageBreak]]
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/elephant_24_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/elephant_24.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/gd01fine/bell_42_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/gd01fine/bell_42.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban16_172_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban16_172.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_102_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS81_102.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS47_128_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/MDS47_128.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/funnel_229_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/funnel_229.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban16_235_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban16_235.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban10_151_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban10_151.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bongo_drums_275_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/bongo_drums_275.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban14_97_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://dr-gwen.github.io/Reachability_patches/sdesc01fine/Urban14_97.png"></div>
+
+[[Choices]]
+Graspability Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[PageBreak]]
+
+
