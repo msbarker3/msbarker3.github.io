@@ -16,12 +16,12 @@
 
 %--Directory management
 S.path = 'MMap_pathstr' ;  
-S.patch_dir = {fullfile(eval(S.path),'data','patch_stimuli','sdesc01fine')
-               fullfile(eval(S.path),'data','patch_stimuli','sdesc01coarse')} ;
-S.survey_out = {fullfile(eval(S.path),'data','surveys','sdesc01','grasp','fine')
-               fullfile(eval(S.path),'data','surveys','sdesc01','grasp','coarse')} ;
+S.patch_dir = {fullfile(eval(S.path),'edesc02fine')
+               fullfile(eval(S.path),'edesc02coarse')} ;
+S.survey_out = {fullfile(eval(S.path),'data','surveys','edesc0203','meaning','fine')
+               fullfile(eval(S.path),'data','surveys','edesc0203','meaning','coarse')} ;
 S.instructions_path = fullfile(eval(S.path),'data','rating_instructions',...
-                               'SONA_instructions_GD01_Grasp.txt') ;
+                               'SONA_instructions_GD01_Meaning.txt') ;
 
 %--Survey parameters
 % *S.scene_context should match P.scene_context in create_scene_patches
@@ -30,13 +30,13 @@ S.patch_scale = {'fine','coarse'} ;  % Patch scales
 S.job_ratings = 300 ;                % Number of ratings per job
                                      % *Not including catch trials
 S.page_items = 10 ;                  % Number of ratings per page
-S.rating_type = 'Graspability Rating' ;   % String listed above Likert Scale
+S.rating_type = 'Meaning Rating' ;   % String listed above Likert Scale
 
 %--Catch trial parameters are dependent on S.scene_context value
 if S.scene_context==1 % With context
 %* User must specify patches from their scenes to use as catch trials. 
-    S.catch_path = fullfile(eval(S.path),'data','patch_stimuli','catch',...
-                           'custom','catch_patches.csv') ; 
+    S.catch_path = fullfile(eval(S.path),'data','patch_stimuli','custom',...
+                           'catch_patches.csv') ; 
     if exist(S.catch_path,'file')==0
         error('S.catch_custom=1, but catch_patches.csv does not exist\n') ; 
     end
@@ -50,8 +50,8 @@ end
 % Each folder in patch stimuli (i.e., fine, coarse, catch-optional) must be 
 % hosted somewhere that allows a static url for each folder. Amazon S3 or 
 % Github will work.
-S.hosting = {'https://dr-gwen.github.io/Reachability_patches/sdesc01fine/' ...
-             'https://dr-gwen.github.io/Reachability_patches/sdesc01coarse/'} ;
+S.hosting = {'https://msbarker3.github.io/Projects/Linearization/edesc02fine/' ...
+             'https://msbarker3.github.io/Projects/Linearization/edesc02coarse/'} ;
 
 %% 020: Define catch trials (default or user-specified)
 
