@@ -76,28 +76,14 @@ Yes
 
 [[PageBreak]]
 
-[[Block:Age]]
-
-[[Question:MC]]
-<div style="text-align:center;">
-What is your age?
-</div>
-
-[[Choices]]
-18-24 years old
-25 years or older
-
-[[PageBreak]]
-
 [[Block:BL01]]
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/outdoors_61.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/grandcanyon_95_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/grandcanyon_95.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -108,11 +94,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/gaming_bros_103.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/shopping_56_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/shopping_56.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -123,11 +108,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/halloween_95.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/snowblower_47_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/snowblower_47.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -138,11 +122,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/coffeeshop_4.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/games_95_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/games_95.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -153,11 +136,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/pillow_fight_29.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/outdoors_65_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/outdoors_65.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -168,11 +150,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/working_84.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/feeding_ducks_53_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/feeding_ducks_53.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -183,11 +164,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/chalk_70.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/busstop_65_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/busstop_65.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -198,11 +178,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/espresso_106.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/outdoorbuffet_4_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/outdoorbuffet_4.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -213,11 +192,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/ring_32.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/halloween_57_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/halloween_57.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -228,11 +206,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/mannequin_78.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/library_53_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/library_53.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -245,11 +222,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/halloween_83.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/chillfield_67_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/chillfield_67.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -260,11 +236,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/Lobby_51.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/suit_26_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/suit_26.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -275,11 +250,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/ladder_23.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/spinning_107_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/spinning_107.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -290,11 +264,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/john_jay_60.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/lunchbox_15_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/lunchbox_15.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -305,11 +278,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/starwars_75.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/oysters_81_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/oysters_81.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -320,11 +292,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/grandcanyon_63.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/hangers_58_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/hangers_58.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -335,11 +306,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/chillfield_108.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/street_vending_91_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/street_vending_91.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -350,11 +320,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/ring_64.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/outdoorbuffet_11_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/outdoorbuffet_11.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -365,11 +334,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/beachvolleyball_105.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/library_38_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/library_38.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -380,11 +348,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/dining_hall_37.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/john_jay_48_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/john_jay_48.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -397,11 +364,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/picnic_40.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/chalk_39_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/chalk_39.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -412,11 +378,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/aperitivo_80.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/halloween_4_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/halloween_4.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -427,11 +392,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/espresso_34.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/flea_market2_85_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/flea_market2_85.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -442,11 +406,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/grandcanyon_37.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/coffeeshop_44_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/coffeeshop_44.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -457,11 +420,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/gaming_bros_25.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/skateboard_72_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/skateboard_72.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -472,11 +434,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/behr_50.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/ladder_26_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/ladder_26.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -487,11 +448,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/chalk_3.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/lincoln_center_41_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/lincoln_center_41.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -502,11 +462,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/bowling_104.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/facetimecook_5_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/facetimecook_5.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -517,11 +476,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/flea_market2_91.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/af1_93_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/af1_93.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -532,11 +490,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/pillow_fight_74.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/john_jay_70_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/john_jay_70.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -549,11 +506,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/games_16.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/spikeball_92_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/spikeball_92.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -564,11 +520,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/dining_hall_64.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/reading_writing_42_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/reading_writing_42.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -579,11 +534,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/suit_63.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/ring_15_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/ring_15.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -594,11 +548,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/gaming_bros_67.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/library_91_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/library_91.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -609,11 +562,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/trying on_2.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/behr_32_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/behr_32.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -624,11 +576,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/subway_performer_19.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/bridesmaids_105_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/bridesmaids_105.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -639,11 +590,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/suit_42.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/moveout_17_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/moveout_17.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -654,11 +604,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/suit_101.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/subway_performer_20_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/subway_performer_20.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -669,11 +618,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/boom_cup_70.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/mongolia_21_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/mongolia_21.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -684,11 +632,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/dreamcatcher_78.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/games_88_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/games_88.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -701,11 +648,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/busstop_69.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/lincoln_center_76_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/lincoln_center_76.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -716,11 +662,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/restaurant_46.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/outdoors_82_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/outdoors_82.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -731,11 +676,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/mannequin_50.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/ladder_28_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/ladder_28.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -746,11 +690,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/leafblower_12.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/starwars_14_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/starwars_14.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -761,11 +704,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/kids_playing_85.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/outdoors_41_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/outdoors_41.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -776,11 +718,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/spinning_22.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/suit_36_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/suit_36.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -791,11 +732,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/subway_performer_7.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/coffeeshop_29_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/coffeeshop_29.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -806,11 +746,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/ladder_20.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/coffeeshop_10_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/coffeeshop_10.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -821,11 +760,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/picnic_53.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/gaming_bros_55_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/gaming_bros_55.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -836,11 +774,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/feeding_ducks_1.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/lunchbox_82_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/lunchbox_82.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -853,11 +790,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/outdoorbuffet_24.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/mannequin_28_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/mannequin_28.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -868,11 +804,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/starwars_7.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/bridesmaids_100_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/bridesmaids_100.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -883,11 +818,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/skateboard_97.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/ring_102_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/ring_102.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -898,11 +832,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/games_85.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/street_vending_74_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/street_vending_74.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -913,11 +846,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/kids_playing_39.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/dentist_95_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/dentist_95.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -928,11 +860,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/outdoors_36.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/suit_58_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/suit_58.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -943,11 +874,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/beachvolleyball_26.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/tent_99_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/tent_99.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -958,11 +888,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/pillow_fight_19.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/trying on_66_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/trying on_66.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -973,11 +902,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/spikeball_17.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/nike_107_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/nike_107.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -988,11 +916,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/grandcanyon_40.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/flea_market2_73_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/flea_market2_73.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1005,11 +932,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/snowboard_25.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/pillow_fight_60_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/pillow_fight_60.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1020,11 +946,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/wig_85.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/flea_market2_79_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/flea_market2_79.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1035,11 +960,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/starwars_45.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/chalk_48_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/chalk_48.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1050,11 +974,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/bowling_5.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/chillfield_3_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/chillfield_3.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1065,11 +988,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/john_jay_8.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/reading_writing_48_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/reading_writing_48.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1080,11 +1002,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/busstop_85.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/bridesmaids_70_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/bridesmaids_70.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1095,11 +1016,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/restaurant_35.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/mannequin_105_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/mannequin_105.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1110,11 +1030,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/Lobby_79.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/feeding_ducks_88_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/feeding_ducks_88.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1125,11 +1044,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/grandcanyon_14.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/pie_15_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/pie_15.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1140,11 +1058,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/pie_23.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/snowboard_89_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/snowboard_89.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1157,11 +1074,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/af1_83.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/chalk_79_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/chalk_79.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1172,11 +1088,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/chalk_81.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/bowling_105_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/bowling_105.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1187,11 +1102,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/ladder_102.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/Lobby_29_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/Lobby_29.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1202,11 +1116,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/boom_cup_89.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/nike_56_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/nike_56.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1217,11 +1130,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/library_2.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/beachvolleyball_97_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/beachvolleyball_97.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1232,11 +1144,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/mongolia_94.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/mannequin_76_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/mannequin_76.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1247,11 +1158,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/outdoorbuffet_51.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/tent_107_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/tent_107.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1262,11 +1172,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/espresso_95.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/library_93_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/library_93.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1277,11 +1186,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/snowblower_108.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/bowling_32_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/bowling_32.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1292,11 +1200,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/skateboard_47.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/chalk_82_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/chalk_82.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1309,11 +1216,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/suit_60.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/chalk_24_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/chalk_24.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1324,11 +1230,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/reading_writing_35.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/nike_71_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/nike_71.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1339,11 +1244,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/mannequin_87.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/lincoln_center_23_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/lincoln_center_23.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1354,11 +1258,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/hangers_72.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/bridesmaids_56_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/bridesmaids_56.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1369,11 +1272,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/oysters_37.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/lunchbox_46_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/lunchbox_46.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1384,11 +1286,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/subway_performer_96.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/suit_76_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/suit_76.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1399,11 +1300,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/facetimecook_85.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/gaming_bros_108_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/gaming_bros_108.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1414,11 +1314,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/humanlift_12.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/facetimecook_42_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/facetimecook_42.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1429,11 +1328,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/aperitivo_96.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/humanlift_33_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/humanlift_33.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1444,11 +1342,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/humanlift_26.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/reading_writing_52_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/reading_writing_52.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1461,11 +1358,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/spikeball_21.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/chillfield_100_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/chillfield_100.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1476,11 +1372,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/Lobby_47.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/halloween_24_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/halloween_24.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1491,11 +1386,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/grandcanyon_21.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/trying on_31_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/trying on_31.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1506,11 +1400,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/lincoln_center_73.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/facetimecook_30_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/facetimecook_30.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1521,11 +1414,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/mannequin_104.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/picnic_33_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/picnic_33.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1536,11 +1428,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/snowblower_107.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/pillow_fight_33_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/pillow_fight_33.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1551,11 +1442,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/dreamcatcher_15.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/games_80_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/games_80.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1566,11 +1456,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/lincoln_center_44.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/dentist_83_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/dentist_83.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1581,11 +1470,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/pillow_fight_98.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/Lobby_38_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/Lobby_38.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1596,11 +1484,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/facetimecook_18.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/street_vending_2_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/street_vending_2.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1613,11 +1500,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/beachvolleyball_48.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/Lobby_79_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/Lobby_79.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1628,11 +1514,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/espresso_28.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/picnic_96_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/picnic_96.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1643,11 +1528,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/games_24.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/suit_6_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/suit_6.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1658,11 +1542,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/chalk_10.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/dreamcatcher_51_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/dreamcatcher_51.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1673,11 +1556,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/skateboard_10.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/chalk_7_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/chalk_7.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1688,11 +1570,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/pie_76.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/outdoorbuffet_17_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/outdoorbuffet_17.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1703,11 +1584,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/busstop_31.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/espresso_87_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/espresso_87.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1718,11 +1598,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/games_69.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/behr_17_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/behr_17.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1733,11 +1612,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/espresso_38.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/suit_37_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/suit_37.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1748,11 +1626,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/ring_5.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/mongolia_104_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/mongolia_104.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1765,11 +1642,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/espresso_41.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/tent_26_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/tent_26.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1780,11 +1656,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/bowling_75.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/nike_27_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/nike_27.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1795,11 +1670,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/beachvolleyball_13.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/john_jay_35_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/john_jay_35.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1810,11 +1684,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/pie_85.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/ladder_33_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/ladder_33.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1825,11 +1698,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/starwars_88.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/pie_98_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/pie_98.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1840,11 +1712,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/spikeball_83.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/wig_4_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/wig_4.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1855,11 +1726,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/boom_cup_97.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/beachvolleyball_107_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/beachvolleyball_107.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1870,11 +1740,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/trying on_31.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/busstop_70_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/busstop_70.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1885,11 +1754,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/feeding_ducks_92.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/outdoors_49_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/outdoors_49.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1900,11 +1768,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/espresso_12.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/snowboard_27_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/snowboard_27.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1917,11 +1784,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/flea_market2_80.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/dentist_97_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/dentist_97.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1932,11 +1798,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/pillow_fight_46.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/busstop_17_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/busstop_17.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1947,11 +1812,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/starwars_22.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/gaming_bros_51_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/gaming_bros_51.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1962,11 +1826,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/games_92.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/kids_playing_71_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/kids_playing_71.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1977,11 +1840,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/nike_49.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/behr_102_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/behr_102.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -1992,11 +1854,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/gaming_bros_27.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/snowboard_106_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/snowboard_106.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2007,11 +1868,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/kids_playing_95.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/ladder_34_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/ladder_34.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2022,11 +1882,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/snowblower_103.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/ladder_96_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/ladder_96.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2037,11 +1896,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/library_71.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/bowling_73_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/bowling_73.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2052,11 +1910,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/wig_90.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/trying on_50_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/trying on_50.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2069,11 +1926,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/behr_59.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/spikeball_10_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/spikeball_10.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2084,11 +1940,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/ring_65.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/kids_playing_38_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/kids_playing_38.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2099,11 +1954,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/busstop_17.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/outdoorbuffet_89_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/outdoorbuffet_89.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2114,11 +1968,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/dentist_44.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/bridesmaids_69_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/bridesmaids_69.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2129,11 +1982,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/reading_writing_79.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/boom_cup_75_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/boom_cup_75.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2144,11 +1996,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/af1_51.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/busstop_34_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/busstop_34.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2159,11 +2010,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/john_jay_98.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/restaurant_70_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/restaurant_70.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2174,11 +2024,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/chillfield_59.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/wig_7_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/wig_7.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2189,11 +2038,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/halloween_27.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/skateboard_94_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/skateboard_94.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2204,11 +2052,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/spinning_107.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/nike_65_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/nike_65.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2223,11 +2070,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/grandcanyon_76.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/ring_79_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/ring_79.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2238,11 +2084,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/hangers_67.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/reading_writing_84_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/reading_writing_84.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2253,11 +2098,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/suit_98.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/bowling_23_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/bowling_23.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2268,11 +2112,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/flea_market2_81.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/chillfield_21_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/chillfield_21.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2283,11 +2126,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/gaming_bros_62.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/library_10_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/library_10.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2298,11 +2140,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/snowblower_96.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/hangers_2_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/hangers_2.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2313,11 +2154,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/halloween_21.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/chalk_76_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/chalk_76.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2328,11 +2168,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/library_23.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/feeding_ducks_17_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/feeding_ducks_17.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2343,11 +2182,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/mongolia_27.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/pillow_fight_1_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/pillow_fight_1.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2358,11 +2196,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/coffeeshop_98.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/halloween_97_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/halloween_97.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2375,11 +2212,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/snowboard_80.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/pie_88_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/pie_88.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2390,11 +2226,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/hangers_35.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/lincoln_center_2_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/lincoln_center_2.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2405,11 +2240,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/pie_63.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/lunchbox_67_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/lunchbox_67.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2420,11 +2254,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/street_vending_45.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/outdoors_19_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/outdoors_19.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2435,11 +2268,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/ladder_37.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/john_jay_76_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/john_jay_76.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2450,11 +2282,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/wig_103.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/dining_hall_55_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/dining_hall_55.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2465,11 +2296,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/feeding_ducks_47.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/facetimecook_2_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/facetimecook_2.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2480,11 +2310,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/lincoln_center_100.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/feeding_ducks_100_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/feeding_ducks_100.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2495,11 +2324,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/ring_83.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/reading_writing_60_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/reading_writing_60.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2510,11 +2338,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/chalk_8.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/dreamcatcher_68_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/dreamcatcher_68.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2527,11 +2354,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/kids_playing_25.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/bowling_90_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/bowling_90.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2542,11 +2368,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/street_vending_101.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/picnic_63_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/picnic_63.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2557,11 +2382,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/behr_58.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/aperitivo_21_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/aperitivo_21.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2572,11 +2396,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/games_36.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/john_jay_106_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/john_jay_106.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2587,11 +2410,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/espresso_49.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/facetimecook_49_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/facetimecook_49.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2602,11 +2424,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/outdoors_20.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/behr_84_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/behr_84.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2617,11 +2438,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/snowboard_20.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/boom_cup_11_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/boom_cup_11.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2632,11 +2452,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/busstop_6.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/reading_writing_68_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/reading_writing_68.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2647,11 +2466,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/outdoorbuffet_54.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/feeding_ducks_4_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/feeding_ducks_4.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2662,11 +2480,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/ladder_65.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/bridesmaids_17_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/bridesmaids_17.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2679,11 +2496,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/feeding_ducks_30.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/Lobby_5_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/Lobby_5.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2694,11 +2510,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/nike_64.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/nike_47_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/nike_47.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2709,11 +2524,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/shopping_32.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/trying on_92_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/trying on_92.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2724,11 +2538,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/john_jay_30.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/hangers_11_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/hangers_11.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2739,11 +2552,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/chillfield_91.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/pillow_fight_36_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/pillow_fight_36.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2754,11 +2566,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/mongolia_23.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/dreamcatcher_70_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/dreamcatcher_70.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2769,11 +2580,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/dining_hall_40.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/bachata_23_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/bachata_23.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2784,11 +2594,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/spinning_96.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/john_jay_1_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/john_jay_1.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2799,11 +2608,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/outdoorbuffet_108.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/outdoors_90_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/outdoors_90.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2814,11 +2622,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/mannequin_49.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/af1_9_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/af1_9.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2831,11 +2638,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/ladder_104.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/starwars_39_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/starwars_39.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2846,11 +2652,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/starwars_47.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/tent_57_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/tent_57.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2861,11 +2666,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/dentist_14.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/subway_performer_73_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/subway_performer_73.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2876,11 +2680,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/espresso_99.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/street_vending_69_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/street_vending_69.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2891,11 +2694,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/restaurant_92.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/bridesmaids_74_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/bridesmaids_74.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2906,11 +2708,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/library_75.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/ring_11_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/ring_11.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2921,11 +2722,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/reading_writing_70.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/john_jay_31_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/john_jay_31.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2936,11 +2736,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/restaurant_45.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/ladder_97_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/ladder_97.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2951,11 +2750,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/ladder_38.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/suit_60_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/suit_60.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2966,11 +2764,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/nike_5.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/nike_2_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/nike_2.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2983,11 +2780,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/outdoors_56.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/outdoorbuffet_77_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/outdoorbuffet_77.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -2998,11 +2794,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/pie_90.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/busstop_38_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/busstop_38.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3013,11 +2808,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/outdoorbuffet_43.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/leafblower_98_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/leafblower_98.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3028,11 +2822,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/wig_65.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/af1_59_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/af1_59.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3043,11 +2836,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/tent_88.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/chalk_42_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/chalk_42.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3058,11 +2850,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/humanlift_46.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/outdoorbuffet_32_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/outdoorbuffet_32.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3073,11 +2864,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/subway_performer_88.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/picnic_18_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/picnic_18.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3088,11 +2878,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/beachvolleyball_31.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/outdoors_86_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/outdoors_86.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3103,11 +2892,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/boom_cup_42.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/outdoors_73_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/outdoors_73.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3118,11 +2906,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/behr_2.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/subway_performer_66_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/subway_performer_66.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3135,11 +2922,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/espresso_42.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/outdoorbuffet_98_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/outdoorbuffet_98.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3150,11 +2936,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/gaming_bros_69.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/starwars_63_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/starwars_63.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3165,11 +2950,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/bridesmaids_105.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/lincoln_center_94_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/lincoln_center_94.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3180,11 +2964,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/Lobby_66.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/halloween_29_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/halloween_29.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3195,11 +2978,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/wig_26.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/mannequin_91_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/mannequin_91.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3210,11 +2992,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/library_68.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/gaming_bros_107_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/gaming_bros_107.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3225,11 +3006,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/subway_performer_99.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/Lobby_39_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/Lobby_39.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3240,11 +3020,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/suit_106.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/suit_106_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/suit_106.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3255,11 +3034,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/halloween_107.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/picnic_43_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/picnic_43.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3270,11 +3048,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/ring_100.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/subway_performer_101_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/subway_performer_101.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3287,11 +3064,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/john_jay_23.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/hangers_70_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/hangers_70.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3302,11 +3078,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/leafblower_6.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/wig_48_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/wig_48.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3317,11 +3092,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/subway_performer_65.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/tent_31_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/tent_31.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3332,11 +3106,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/lunchbox_20.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/outdoors_97_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/outdoors_97.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3347,11 +3120,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/lunchbox_102.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/starwars_107_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/starwars_107.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3362,11 +3134,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/mongolia_4.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/mannequin_39_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/mannequin_39.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3377,11 +3148,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/trying on_37.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/john_jay_12_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/john_jay_12.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3392,11 +3162,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/tent_2.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/starwars_72_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/starwars_72.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3407,11 +3176,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/skateboard_43.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/shopping_95_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/shopping_95.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3422,11 +3190,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/spikeball_36.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/spikeball_73_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/spikeball_73.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3439,11 +3206,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/subway_performer_43.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/bachata_64_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/bachata_64.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3454,11 +3220,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/outdoorbuffet_99.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/nike_102_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/nike_102.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3469,11 +3234,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/gaming_bros_45.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/skateboard_67_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/skateboard_67.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3484,11 +3248,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/pillow_fight_78.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/leafblower_74_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/leafblower_74.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3499,11 +3262,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/suit_11.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/picnic_103_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/picnic_103.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3514,11 +3276,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/picnic_65.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/spinning_93_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/spinning_93.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3529,11 +3290,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/moveout_30.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/tent_40_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/tent_40.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3544,11 +3304,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/nike_23.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/snowblower_24_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/snowblower_24.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3559,11 +3318,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/behr_76.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/kids_playing_4_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/kids_playing_4.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3574,11 +3332,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/humanlift_105.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/wig_36_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/wig_36.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3591,11 +3348,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/espresso_74.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/aperitivo_66_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/aperitivo_66.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3606,11 +3362,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/suit_77.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/skateboard_15_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/skateboard_15.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3621,11 +3376,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/subway_performer_55.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/oysters_91_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/oysters_91.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3636,11 +3390,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/reading_writing_54.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/grandcanyon_80_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/grandcanyon_80.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3651,11 +3404,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/bridesmaids_65.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/picnic_70_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/picnic_70.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3666,11 +3418,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/Lobby_18.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/working_99_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/working_99.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3681,11 +3432,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/tent_39.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/tent_69_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/tent_69.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3696,11 +3446,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/af1_11.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/subway_performer_43_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/subway_performer_43.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3711,11 +3460,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/leafblower_97.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/reading_writing_71_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/reading_writing_71.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3726,11 +3474,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/busstop_86.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/facetimecook_74_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/facetimecook_74.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3743,11 +3490,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/wig_82.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/snowblower_45_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/snowblower_45.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3758,11 +3504,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/trying on_13.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/flea_market2_30_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/flea_market2_30.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3773,11 +3518,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/outdoorbuffet_83.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/spinning_34_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/spinning_34.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3788,11 +3532,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/beachvolleyball_11.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/shopping_46_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/shopping_46.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3803,11 +3546,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/spikeball_61.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/outdoors_102_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/outdoors_102.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3818,11 +3560,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/bowling_12.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/picnic_49_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/picnic_49.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3833,11 +3574,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/john_jay_104.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/picnic_5_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/picnic_5.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3848,11 +3588,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/snowboard_42.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/halloween_100_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/halloween_100.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3863,11 +3602,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/oysters_84.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/spikeball_64_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/spikeball_64.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3878,11 +3616,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/bridesmaids_13.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/street_vending_45_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/street_vending_45.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3895,11 +3632,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/behr_43.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/shopping_73_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/shopping_73.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3910,11 +3646,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/nike_97.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/chillfield_39_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/chillfield_39.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3925,11 +3660,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/af1_31.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/trying on_74_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/trying on_74.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3940,11 +3674,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/outdoors_1.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/mannequin_73_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/mannequin_73.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3955,11 +3688,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/kids_playing_32.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/oysters_76_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/oysters_76.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3970,11 +3702,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/grandcanyon_34.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/moveout_95_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/moveout_95.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -3985,11 +3716,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/bridesmaids_73.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/nike_85_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/nike_85.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -4000,11 +3730,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/flea_market2_2.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/halloween_52_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/halloween_52.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -4015,11 +3744,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/dining_hall_65.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/restaurant_4_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/restaurant_4.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -4030,11 +3758,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/kids_playing_3.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/lunchbox_71_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/lunchbox_71.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -4047,11 +3774,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/wig_93.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/ring_73_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/ring_73.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -4062,11 +3788,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/shopping_47.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/feeding_ducks_2_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/feeding_ducks_2.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -4077,11 +3802,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/lincoln_center_5.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/outdoors_17_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/outdoors_17.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -4092,11 +3816,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/kids_playing_14.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/mongolia_32_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/mongolia_32.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -4107,11 +3830,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/dentist_19.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/wig_84_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/wig_84.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -4122,11 +3844,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/outdoorbuffet_1.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/reading_writing_107_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/reading_writing_107.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -4137,11 +3858,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/aperitivo_57.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/aperitivo_9_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/aperitivo_9.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -4152,11 +3872,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/lincoln_center_7.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/pillow_fight_30_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/pillow_fight_30.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -4167,11 +3886,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/nike_71.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/reading_writing_65_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/reading_writing_65.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -4182,11 +3900,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/mannequin_28.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/dentist_65_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/dentist_65.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -4199,11 +3916,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/mannequin_82.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/feeding_ducks_59_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/feeding_ducks_59.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -4214,11 +3930,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/beachvolleyball_95.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/dentist_53_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/dentist_53.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -4229,11 +3944,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/ladder_54.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/pillow_fight_90_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/pillow_fight_90.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -4244,11 +3958,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/beachvolleyball_3.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/snowblower_44_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/snowblower_44.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -4259,11 +3972,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/espresso_20.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/boom_cup_9_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/boom_cup_9.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -4274,11 +3986,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/picnic_107.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/ring_69_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/ring_69.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -4289,11 +4000,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/humanlift_67.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/skateboard_62_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/skateboard_62.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -4304,11 +4014,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/boom_cup_92.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/dentist_41_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/dentist_41.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -4319,11 +4028,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/humanlift_43.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/snowblower_7_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/snowblower_7.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -4334,11 +4042,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/working_93.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/restaurant_68_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/restaurant_68.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -4351,11 +4058,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/bachata_84.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/spikeball_47_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/spikeball_47.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -4366,11 +4072,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/chalk_12.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/outdoorbuffet_42_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/outdoorbuffet_42.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -4381,11 +4086,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/halloween_2.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/lunchbox_63_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/lunchbox_63.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -4396,11 +4100,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/facetimecook_49.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/humanlift_63_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/humanlift_63.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -4411,11 +4114,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/ladder_55.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/john_jay_43_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/john_jay_43.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -4426,11 +4128,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/moveout_55.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/lunchbox_32_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/lunchbox_32.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -4441,11 +4142,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/pie_45.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/skateboard_4_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/skateboard_4.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -4456,11 +4156,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/reading_writing_44.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/gaming_bros_47_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/gaming_bros_47.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -4471,11 +4170,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/humanlift_9.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/beachvolleyball_53_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/beachvolleyball_53.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -4486,11 +4184,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/snowboard_67.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/humanlift_78_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/humanlift_78.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -4503,11 +4200,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/suit_20.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/af1_84_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/af1_84.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -4518,11 +4214,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/flea_market2_87.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/pie_29_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/pie_29.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -4533,11 +4228,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/grandcanyon_11.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/lincoln_center_80_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/lincoln_center_80.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -4548,11 +4242,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/dentist_53.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/chalk_71_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/chalk_71.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -4563,11 +4256,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/dining_hall_55.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/skateboard_98_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/skateboard_98.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -4578,11 +4270,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/shopping_9.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/snowblower_77_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/snowblower_77.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -4593,11 +4284,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/skateboard_55.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/john_jay_92_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/john_jay_92.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -4608,11 +4298,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/nike_39.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/hangers_47_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/hangers_47.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -4623,11 +4312,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/facetimecook_36.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/pie_78_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/pie_78.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2
@@ -4638,11 +4326,10 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/ladder_51.png" /></a
-></div>
+<a><img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/chillfield_35_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://msbarker3.github.io/Projects/Linearization/edesc02coarse/chillfield_35.png"></div>
 
 [[Choices]]
-Meaningfulness Rating
+Meaning Rating
 [[Answers]]
 Very Low 1
 Low 2

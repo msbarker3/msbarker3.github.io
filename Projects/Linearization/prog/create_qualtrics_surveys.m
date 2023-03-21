@@ -56,16 +56,8 @@ S.hosting = {'https://msbarker3.github.io/Projects/Linearization/edesc02fine/' .
 %% 020: Define catch trials (default or user-specified)
 
 %--Check if catch patches are user-defined(use for patch in context rating)
-%  Note # of custom patches MUST be divisible by S.page_items
-if S.scene_context==1
-    catch_patches = ezread(S.catch_path) ;
-    for p=1:length(S.patch_scale)
-        patch_idx = ismember(catch_patches.scale,S.patch_scale{p}) ;
-        catch_urls{p} = catch_patches.full_url(patch_idx)' ; %#ok<SAGROW>
-    end
 %--Otherwise use default dark to light patches(use for patch only rating)
-else
-    catch_patches = get_files(S.catch_path) ;
+for catch_patches = get_files(S.catch_path) ;
     for p=1:length(S.patch_scale)
         patch_idx = ~cellfun(@isempty,regexp(catch_patches,S.patch_scale{p})) ; 
         catch_names = catch_patches(patch_idx) ;
@@ -192,13 +184,13 @@ for s=1:length(S.patch_scale)
                 fprintf(dfid,'[[Question:Matrix]]\n') ;
                 
                 %-- Write display image html to file (PATCH ONLY)
-                if S.scene_context~=1
-                    fprintf(dfid,'<div style="text-align: center;">\n') ;
-                    fprintf(dfid,...
-                    sprintf('<a><img src="%s" /></a\n',I_patch{:})) ;
+                %if S.scene_context~=1
+                %    fprintf(dfid,'<div style="text-align: center;">\n') ;
+                %    fprintf(dfid,...
+                %    sprintf('<a><img src="%s" /></a\n',I_patch{:})) ;
                     %sprintf('<a><img src="%s"  " style="width:   120px; height: 120px;" /></a\n',I{:})) ;
-                    fprintf(dfid,'></div>\n\n') ;
-                end
+                %    fprintf(dfid,'></div>\n\n') ;
+               % end
 
                 %-- Write display image html to file
                 if S.scene_context==1

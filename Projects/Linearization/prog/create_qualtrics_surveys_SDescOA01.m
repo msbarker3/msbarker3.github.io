@@ -209,12 +209,12 @@ for s=1:length(S.patch_scale)
                 fprintf(dfid,'[[Question:Matrix]]\n') ;
                 
                 %-- Write display image html to file (PATCH ONLY)
-                if S.scene_context~=1
-                    fprintf(dfid,'<div style="text-align: center;">\n') ;
-                    fprintf(dfid,...
-                    sprintf('<a><img src="%s" /></a\n',I_patch{:})) ;
-                    %sprintf('<a><img src="%s"  " style="width:   120px; height: 120px;" /></a\n',I{:})) ;
-                    fprintf(dfid,'></div>\n\n') ;
+                %if S.scene_context~=1
+                %    fprintf(dfid,'<div style="text-align: center;">\n') ;
+                %    fprintf(dfid,...
+                %    sprintf('<a><img src="%s" /></a\n',I_patch{:})) ;
+                %    %sprintf('<a><img src="%s"  " style="width:   120px; height: 120px;" /></a\n',I{:})) ;
+                 %   fprintf(dfid,'></div>\n\n') ;
                 end
 
                 %-- Write display image html to file
