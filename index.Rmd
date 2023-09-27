@@ -1,0 +1,14 @@
+---
+title: "Madison Barker"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+<br>
+`[msbarker at ucdavis dot edu]`
+
+Hi there, my name is Madison and I am a fifth-year graduate student in Psychology at the University of California, Davis. I study language production, namely multi-utterance production, as a member of the [Ferreira Lab](https://ferreiralab.faculty.ucdavis.edu/) headed by Dr. Fernanda Ferreira here at UC Davis. My research is interested in better understanding the linearization problem (how do people decide what to say and when?). We use real-world scenes to get participants to elicit such descriptions, use eyetracking to monitor their eye movements, and a number of computational methods to quantify scene features to begin to address this question in the field of psycholingusitics.    
+
+###   [**research**](./research.html) | [**cv**](./data/cv-msb.pdf) | [**resume**](./data/resume-msb.pdf) | [**lab**](https://ferreiralab.faculty.ucdavis.edu/) | [**scholar**](https://scholar.google.com/citations?user=Z3Gy3LsAAAAJ&hl=en&oi=ao)
