@@ -5,9 +5,17 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "|"
     - text: "Research"
       href: research.html
-
+      dropdown:
+      - text: "CV"
+        href: "cv-msb.pdf"
+      - text: "Resume"
+        href: "resume-msb.pdf"
+    - text: "Personal"
+      href: personal.html
+ 
 
 output:
   html_document:
